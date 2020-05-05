@@ -1,0 +1,24 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "name": "Вася",
+      "surname": "Иванов",
+      "phone": "+71234567899"
+    },
+    {
+      "name": "frsf",
+      "surname": "grdg",
+      "phone": "rdgrdd",
+      "notes": [],
+      "id": 2
+    },
+    {
+      "name": "csdcs",
+      "surname": "csdcs",
+      "phone": "3324324",
+      "notes": [],
+      "id": 3
+    }
+  ]
+}
